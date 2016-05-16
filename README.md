@@ -1,3 +1,4 @@
 # midashi
 * banana
 * apple
+* pineapple
